@@ -1,0 +1,12 @@
+c:\users\sergio\documents\visual studio 2015\Projects\Lab3_475_StockApp\Lab3_475_StockApp\bin\Debug\Lab3_475_StockApp.exe.config
+C:\Users\Sergio\Documents\Visual Studio 2015\Projects\Lab3_475_StockApp\Lab3_475_StockApp\bin\Debug\Lab3_475_StockApp.exe
+C:\Users\Sergio\Documents\Visual Studio 2015\Projects\Lab3_475_StockApp\Lab3_475_StockApp\bin\Debug\Lab3_475_StockApp.pdb
+C:\Users\Sergio\Documents\Visual Studio 2015\Projects\Lab3_475_StockApp\Lab3_475_StockApp\obj\Debug\Lab3_475_StockApp.csprojResolveAssemblyReference.cache
+C:\Users\Sergio\Documents\Visual Studio 2015\Projects\Lab3_475_StockApp\Lab3_475_StockApp\obj\Debug\Lab3_475_StockApp.exe
+C:\Users\Sergio\Documents\Visual Studio 2015\Projects\Lab3_475_StockApp\Lab3_475_StockApp\obj\Debug\Lab3_475_StockApp.pdb
+C:\Users\sinci\Documents\Visual Studio 2015\Projects\Lab3_475_StockApp\Lab3_475_StockApp\bin\Debug\Lab3_475_StockApp.exe.config
+C:\Users\sinci\Documents\Visual Studio 2015\Projects\Lab3_475_StockApp\Lab3_475_StockApp\obj\Debug\Lab3_475_StockApp.exe
+C:\Users\sinci\Documents\Visual Studio 2015\Projects\Lab3_475_StockApp\Lab3_475_StockApp\obj\Debug\Lab3_475_StockApp.pdb
+C:\Users\sinci\Documents\Visual Studio 2015\Projects\Lab3_475_StockApp\Lab3_475_StockApp\bin\Debug\Lab3_475_StockApp.exe
+C:\Users\sinci\Documents\Visual Studio 2015\Projects\Lab3_475_StockApp\Lab3_475_StockApp\bin\Debug\Lab3_475_StockApp.pdb
+C:\Users\sinci\Documents\Visual Studio 2015\Projects\Lab3_475_StockApp\Lab3_475_StockApp\obj\Debug\Lab3_475_StockApp.csprojResolveAssemblyReference.cache
